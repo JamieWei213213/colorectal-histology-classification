@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+data/
+outputs/
+pbmc3k_runs/
+*.h5ad
+*.pt
+*.pth
+*.zip

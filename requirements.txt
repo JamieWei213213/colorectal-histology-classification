@@ -1,0 +1,10 @@
+# Install a compatible torch/torchvision pair for your platform first.
+# Colab's preinstalled GPU pair is retained by the notebook.
+torch>=2.3,<3
+torchvision>=0.18,<1
+medmnist==3.0.2
+numpy>=1.26,<3
+pandas>=2.1,<4
+scikit-learn>=1.4,<2
+matplotlib>=3.8,<4
+Pillow>=10,<13
